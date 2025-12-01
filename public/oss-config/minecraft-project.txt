@@ -1,0 +1,11 @@
+{
+  name="需求分析报告",
+  type="PDF",
+  link="#"
+}
+{
+  name="系统架构图",
+  type="PNG",
+  link="#"
+}
+{name="服务端插件包",type="JAR",link="#"}{name="客户端 Mod 列表",type="TXT",link="#"}{name="心理测试题库",type="JSON",link="#"}{name="演示视频",type="MOV",link="#"}

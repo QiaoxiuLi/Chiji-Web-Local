@@ -1,0 +1,1 @@
+{name="灯光设计图纸",type="PDF",link="#"}{name="DMX512 控制脚本",type="LUA",link="#"}{name="舞台结构模型",type="SCHEM",link="#"}{name="彩排录像",type="MP4",link="#"}{name="发布会原声音乐",type="MP3",link="#"}{name="最终效果截图",type="JPG",link="#"}

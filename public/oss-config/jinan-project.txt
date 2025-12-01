@@ -1,0 +1,6 @@
+{ name="项目设计文档", type="DOCX", link="#" }
+{ name="高精度地图数据", type="JSON", link="#" }
+{ name="实地考察照片集", type="ZIP", link="#" }
+{ name="渲染效果图 01", type="PNG", link="#" }
+{ name="渲染效果图 02", type="PNG", link="#" }
+{ name="项目演示 Demo", type="EXE", link="#" }

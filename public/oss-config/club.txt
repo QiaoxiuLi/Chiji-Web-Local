@@ -1,0 +1,15 @@
+{name="社团章程",type="PDF",link="http://imgsrc.baidu.com/baike/pic/item/b21bb051f819861841bb490948ed2e738ad4e6bb.jpg"}
+{name="招新海报",type="JPG",link="#"}
+
+2023年归档 {
+    {name="2023 活动记录",type="DOCX",link="#"}
+    {name="2023 财务报表",type="XLSX",link="#"}
+    
+    现场照片 {
+        {name="活动合影.jpg",type="JPG",link="#"}
+        {name="现场花絮.mp4",type="MP4",link="#"}
+    }
+}
+
+{name="开源项目代码",type="ZIP",link="#"}
+{name="年度总结 PPT",type="PPTX",link="#"}
